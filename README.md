@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎙️ Personal Voice Assistant — Jarvis
 
 A Python-based personal voice assistant that recognizes voice commands and automates daily tasks. Built as a portfolio project for a third-year engineering student.
@@ -116,3 +117,6 @@ python main.py
 
 Built by [Your Name] — Third Year Engineering Student  
 [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+=======
+# Personal-Voice-Assistant
+>>>>>>> 2bf3f00f11b0dbf3385e0f94f58c222fed9bba9b
